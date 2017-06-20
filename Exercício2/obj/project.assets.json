@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercício2\\Exercício2.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercício2\\Exercício2.csproj",
       "projectName": "Exercício2",
-      "projectPath": "c:\\users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercício2\\Exercício2.csproj",
-      "outputPath": "c:\\users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercício2\\obj\\",
+      "projectPath": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercício2\\Exercício2.csproj",
+      "outputPath": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercício2\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

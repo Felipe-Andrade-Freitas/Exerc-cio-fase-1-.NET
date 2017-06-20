@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Exercicio4
 {
@@ -6,32 +7,27 @@ namespace Exercicio4
     {
         static void Main(string[] args)
         {
-                var command = string.Empty;
+            //System.Text.Encoding();
+            Encoding enc = new UTF8Encoding(true, true);
 
-                do
-                {
-                    // Imprime menu
-                    Console.WriteLine("1) opção 1");
-                    Console.WriteLine("2) opção 2");
-                    // ...
 
-                    // Lê o comando selecionado
-                    command = Console.ReadLine();
+            int x;
+            int y;
+            int z;
+            double resultado = 0;
 
-                    switch (command)
-                    {
-                        case "1":
-                            Console.WriteLine("")
-                            break
-                        case "2":
-                            // Faça a opção 2
-                            break
-                        default
-                            Console.WriteLine("\"{0}\" não é um opção válida.", command);
-                    }
+            Console.WriteLine("Digite o primeiro número: ", enc);
+            x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o segundo numero: ");
+            y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o terceiro numero: ");
+            z = int.Parse(Console.ReadLine());
 
-                } while (command != "exit");
+            resultado = (x + y + z) / 3;
 
-            }
+            Console.WriteLine("A media de " + x + ", " + y + " e " + z + " e: " + resultado);
+            Console.ReadLine();
         }
     }
+}
+
