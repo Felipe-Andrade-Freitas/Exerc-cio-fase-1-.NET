@@ -1,0 +1,8 @@
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\bin\Debug\netcoreapp1.1\Exercicio14.deps.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\bin\Debug\netcoreapp1.1\Exercicio14.runtimeconfig.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\bin\Debug\netcoreapp1.1\Exercicio14.runtimeconfig.dev.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\bin\Debug\netcoreapp1.1\Exercicio14.dll
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\bin\Debug\netcoreapp1.1\Exercicio14.pdb
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\obj\Debug\netcoreapp1.1\Exercicio14.AssemblyInfo.cs
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\obj\Debug\netcoreapp1.1\Exercicio14.dll
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio14\obj\Debug\netcoreapp1.1\Exercicio14.pdb

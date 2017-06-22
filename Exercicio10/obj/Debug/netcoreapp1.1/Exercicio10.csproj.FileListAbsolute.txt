@@ -1,0 +1,9 @@
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\bin\Debug\netcoreapp1.1\Exercicio10.deps.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\bin\Debug\netcoreapp1.1\Exercicio10.runtimeconfig.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\bin\Debug\netcoreapp1.1\Exercicio10.runtimeconfig.dev.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\obj\Debug\netcoreapp1.1\Exercicio10.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\obj\Debug\netcoreapp1.1\Exercicio10.AssemblyInfo.cs
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\bin\Debug\netcoreapp1.1\Exercicio10.dll
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\bin\Debug\netcoreapp1.1\Exercicio10.pdb
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\obj\Debug\netcoreapp1.1\Exercicio10.dll
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio10\obj\Debug\netcoreapp1.1\Exercicio10.pdb

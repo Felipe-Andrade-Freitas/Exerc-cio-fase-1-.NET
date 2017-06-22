@@ -1,0 +1,9 @@
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\bin\Debug\netcoreapp1.1\Exercicio6.deps.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\bin\Debug\netcoreapp1.1\Exercicio6.runtimeconfig.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\bin\Debug\netcoreapp1.1\Exercicio6.runtimeconfig.dev.json
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\bin\Debug\netcoreapp1.1\Exercicio6.dll
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\bin\Debug\netcoreapp1.1\Exercicio6.pdb
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\obj\Debug\netcoreapp1.1\Exercicio6.csprojResolveAssemblyReference.cache
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\obj\Debug\netcoreapp1.1\Exercicio6.AssemblyInfo.cs
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\obj\Debug\netcoreapp1.1\Exercicio6.dll
+C:\Users\felip\documents\visual studio 2017\Projects\Exercício fase 1 .NET\Exercicio6\obj\Debug\netcoreapp1.1\Exercicio6.pdb

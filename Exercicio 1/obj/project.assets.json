@@ -7042,9 +7042,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercicio 1\\Exercicio 1.csproj",
-      "projectName": "Exercicio 1",
-      "projectPath": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercicio 1\\Exercicio 1.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercicio 1\\Exercicio1.csproj",
+      "projectName": "Exercicio1",
+      "projectPath": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercicio 1\\Exercicio1.csproj",
       "outputPath": "C:\\Users\\felip\\documents\\visual studio 2017\\Projects\\Exercício fase 1 .NET\\Exercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [

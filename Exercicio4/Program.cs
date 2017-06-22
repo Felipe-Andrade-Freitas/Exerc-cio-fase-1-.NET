@@ -7,25 +7,22 @@ namespace Exercicio4
     {
         static void Main(string[] args)
         {
-            //System.Text.Encoding();
-            Encoding enc = new UTF8Encoding(true, true);
-
 
             int x;
             int y;
             int z;
             double resultado = 0;
 
-            Console.WriteLine("Digite o primeiro número: ", enc);
+            Console.Write("Digite o primeiro numero: ");
             x = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o segundo numero: ");
+            Console.Write("Digite o segundo numero: ");
             y = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o terceiro numero: ");
+            Console.Write("Digite o terceiro numero: ");
             z = int.Parse(Console.ReadLine());
 
             resultado = (x + y + z) / 3;
 
-            Console.WriteLine("A media de " + x + ", " + y + " e " + z + " e: " + resultado);
+            Console.WriteLine("A media dos numeros " + x + ", " + y + " e " + z + " sao: " + resultado);
             Console.ReadLine();
         }
     }
